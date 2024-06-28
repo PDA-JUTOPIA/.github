@@ -1,7 +1,10 @@
 # Jutopia
 | 주식이 어려운 당신을 위한, 주식 투자 교육 서비스 주토피아
 - 기간 2024.06.04 ~ 2024.06.28
+### 시연영상
+https://www.youtube.com/watch?si=fdN8C7UgNRuY_PKF&v=uoVh_zlNCU8&feature=youtu.be
 
+### 서비스링크
 https://jutopia.site/
 
 # 팀 소개
@@ -51,8 +54,10 @@ https://jutopia.site/
 ![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)
 
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL&logoColor=F90)
+![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL&logoColor=#4479A1)
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
+![amazons3](https://img.shields.io/badge/-AmazonsS3-000?&logo=Amazon-S3&logoColor=F90)
+![nginx](https://img.shields.io/badge/-nginx-000?&logo=nginx&logoColor=#009639)
 
 ![Git](https://img.shields.io/badge/-Git-000?&logo=git)
 ![Figma](https://img.shields.io/badge/-Figma-000?&logo=Figma)
