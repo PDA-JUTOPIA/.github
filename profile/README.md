@@ -2,7 +2,7 @@
 | 주식이 어려운 당신을 위한, 주식 투자 교육 서비스 주토피아
 - 기간 2024.06.04 ~ 2024.06.28
 ### 시연영상
-https://www.youtube.com/watch?si=fdN8C7UgNRuY_PKF&v=uoVh_zlNCU8&feature=youtu.be
+https://www.youtube.com/watch?v=H2ePzkz7FYQ
 
 ### 서비스링크
 https://jutopia.site/
